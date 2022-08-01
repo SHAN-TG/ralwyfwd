@@ -27,7 +27,7 @@
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
-      "value": ""
+      "value": "-1001552961637"
     },
     "FROM_CHANNEL": {
       "description": "enter Channel username Eg:- @abcdefghijk",
@@ -35,7 +35,7 @@
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": ""
+      "value": "812318102"
     },
     "SKIP_NO": {
       "description": "Enter File Skiping Number",
